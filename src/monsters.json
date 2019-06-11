@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "src=./public/images/brachydios.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "src=./public/images/deviljo.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "src=./public/images/diabblos.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "src=./public/images/lagiacrus.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "src=./public/images/lunastra.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "src=./public/images/nargacuga.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "src=./public/images/nergigante.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "src=./public/images/nibbelsnarf.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "src=./public/images/rathalos.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "src=./public/images/rathian.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "src=./public/images/teostra.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "src=./public/images/zinogre.png",
+      "clicked": false
+    }
+  ]
+  
