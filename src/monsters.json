@@ -1,62 +1,62 @@
 [
     {
       "id": 1,
-      "image": "src=./public/images/brachydios.png",
+      "image": "/assets/images/tigrex.png",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "src=./public/images/deviljo.png",
+      "image": "/assets/images/deviljo.png",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "src=./public/images/diabblos.png",
+      "image": "/assets/images/diabblos.png",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "src=./public/images/lagiacrus.png",
+      "image": "/assets/images/lagiacrus.png",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "src=./public/images/lunastra.png",
+      "image": "/assets/images/lunastra.png",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "src=./public/images/nargacuga.png",
+      "image": "/assets/images/nargacuga.png",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "src=./public/images/nergigante.png",
+      "image": "/assets/images/nergigante.png",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "src=./public/images/nibbelsnarf.png",
+      "image": "/assets/images/nibelsnarf.png",
       "clicked": false
     },
     {
       "id": 9,
-      "image": "src=./public/images/rathalos.png",
+      "image": "/assets/images/rathalos.png",
       "clicked": false
     },
     {
       "id": 10,
-      "image": "src=./public/images/rathian.png",
+      "image": "/assets/images/rathian.png",
       "clicked": false
     },
     {
       "id": 11,
-      "image": "src=./public/images/teostra.png",
+      "image": "/assets/images/teostra.png",
       "clicked": false
     },
     {
       "id": 12,
-      "image": "src=./public/images/zinogre.png",
+      "image": "/assets/images/zinogre.png",
       "clicked": false
     }
   ]

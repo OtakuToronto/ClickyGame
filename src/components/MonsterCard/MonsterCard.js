@@ -1,7 +1,7 @@
 import React from "react";
-import "./monsters.css";
+import "./MonsterCard.css";
 
-const monsters = props => (
+const MonsterCard = props => (
   <div 
     className="card" 
     value={props.id} 
@@ -13,4 +13,4 @@ const monsters = props => (
   </div>
 );
 
-export default monsters;
+export default MonsterCard;

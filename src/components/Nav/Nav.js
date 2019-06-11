@@ -1,7 +1,7 @@
 import React from "react";
-import "./nav.css";
+import "./Nav.css";
 
-const nav = props => (
+const Nav = props => (
   <nav>
     <ul>
       <li className="brand animated lightSpeedIn">
@@ -17,4 +17,4 @@ const nav = props => (
   </nav>
 );
 
-export default nav;
+export default Nav;
