@@ -69,14 +69,14 @@ class App extends Component {
     return (
       <Wrapper>
         <Nav
-          title="Monster Hunter Clicky Game"
+          title="Monster Hunter"
           score={this.state.currentScore}
           topScore={this.state.topScore}
           rightWrong={this.state.rightWrong}
         />
 
         <Title>
-          Try to click each monster one only to deaft them in step. If you click one that is already defeated you die!
+          Can you remember all of the monsters? Click each monster only once. If you click one a second time you die!
         </Title>
 
         <Container>

@@ -7,3 +7,12 @@ html, body, #root {
   margin: 0;
   height: 100%;
 }
+
+@font-face {
+  font-family: 'monsterhuntermedium';
+  src: url('/fonts/monsterhunter-webfont.woff2') format('woff2'),
+       url('/fonts/monsterhunter-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}

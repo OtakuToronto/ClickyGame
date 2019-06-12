@@ -1,5 +1,6 @@
 .wrapper {
     height: 100%;
+    background-image: url("/assets/background.jpg");
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
